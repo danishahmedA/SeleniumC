@@ -17,7 +17,14 @@ public class pBrowserUtil {
 		case "edge":
 			driver =new EdgeDriver();
 			break;
+		case "firefox":
+			driver =new FireFox();
+			break;
+		case "safari":
+			driver =new Safari();
+			break;
 			
+				
 		default:
 			System.out.println("Pls Pass correct browser...");
 			throw new AutoException("invalid Browser " + browserName);
