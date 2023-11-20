@@ -1,1 +1,1 @@
-I am learning Selenium in 30 Days and attempting to apply it in a real-world project. This hands-on experience improved my abilities, helping me to easily manage challenges. 
+I am learning Selenium in 30 Days and attempting to apply it in a real-world project. Designed an MVC pattern in a generic manner for each class named Utility to make it easier to read.  This hands-on experience improved my abilities, helping me to easily manage challenges. 
